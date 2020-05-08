@@ -1,0 +1,191 @@
+name,speciality,rating,delivery_time,pricing,offer,conditions
+The Doner Company,"Fast Food, Salads, Lebanese",4.4,30 MINS,Rs. 350 FOR TWO,10% off on all orders, 
+The Irani Cafe,Cafe,4.4,41 MINS,Rs. 250 FOR TWO, , 
+Teri Rajput,"Street Food, North Indian, Desserts",4.3,36 MINS,Rs. 150 FOR TWO, , 
+CakeZone,"Desserts, Bakery, Beverages, Ice Cream",4.2,36 MINS,Rs. 200 FOR TWO, , 
+Burger King,"American, Fast Food",3.8,50 MINS,Rs. 350 FOR TWO, ,Rs. 30 distance fee applicable
+Pind Punjab,"North Indian, Chinese",4.2,42 MINS,Rs. 350 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Wadeshwar,"North Indian, South Indian, Fast Food, Street Food",4.2,40 MINS,Rs. 300 FOR TWO, , 
+McDonald's,Fast Food,4.2,37 MINS,Rs. 400 FOR TWO, , 
+Khichdi Experiment by Ola Foods,"Home Food, Healthy Food, Indian",4.4,46 MINS,Rs. 250 FOR TWO, ,Rs. 10 distance fee applicable
+Wadeshwar(FC Road),"Street Food, North Indian, South Indian, Fast Food, Beverages, Healthy Food, Ind...",4.4,56 MINS,Rs. 300 FOR TWO, ,Rs. 30 distance fee applicable
+Domino's Pizza,Pizzas,4.2,30 MINS,Rs. 400 FOR TWO, , 
+Mad Momos,Chinese,3.9,45 MINS,Rs. 150 FOR TWO,20% off on all orders,Rs. 10 distance fee applicable
+Bangalore iyangar's bakery,"Desserts, Bakery",4.4,43 MINS,Rs. 150 FOR TWO, ,Rs. 10 distance fee applicable
+Faasos,"Fast Food, North Indian, Biryani, Desserts",4.3,42 MINS,Rs. 200 FOR TWO,Swiggy Value Offer,Rs. 10 distance fee applicable
+LunchBox,"North Indian, Chinese, Desserts, Biryani",4.1,43 MINS,Rs. 200 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Wild Sugar,"Desserts, Bakery",4.0,41 MINS,Rs. 400 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Chang's,Chinese,4.3,43 MINS,Rs. 700 FOR TWO, ,Rs. 10 distance fee applicable
+Rolls Mania,Fast Food,4.0,38 MINS,Rs. 200 FOR TWO,20% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Subway,"Snacks, Salads, American, Fast Food, Healthy Food, Beverages",4.2,33 MINS,Rs. 300 FOR TWO, , 
+Salad Grills,"Healthy Food, Salads, Fast Food, Continental, North Indian, Chinese",4.3,44 MINS,Rs. 300 FOR TWO, , 
+Eatsome,"North Indian, Street Food, Biryani",4.2,39 MINS,Rs. 200 FOR TWO,20% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Marrakesh,"Lebanese, Arabian, Afghani, Mughlai, Mediterranean, Middle Eastern",3.8,45 MINS,Rs. 300 FOR TWO,20% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Ovenstory Pizza,Pizzas,3.9,43 MINS,Rs. 350 FOR TWO,10% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Kimchi,"Chinese, Thai, Malaysian",4.1,49 MINS,Rs. 350 FOR TWO,15% off on all orders,Rs. 30 distance fee applicable
+The Cheese Truck,"Street Food, Fast Food",4.2,39 MINS,Rs. 150 FOR TWO, ,Rs. 10 distance fee applicable
+Chaitanya Paranthas,North Indian,4.0,54 MINS,Rs. 250 FOR TWO, ,Rs. 30 distance fee applicable
+Rajendra Paav Bhaji,"Street Food, Desserts",4.1,44 MINS,Rs. 350 FOR TWO, ,Rs. 10 distance fee applicable
+Ramsar Bakery,"Desserts, Fast Food, Bakery",4.2,51 MINS,Rs. 150 FOR TWO,30% off | Use coupon JUMBO,Rs. 30 distance fee applicable
+Behrouz Biryani,"Biryani, Mughlai",4.2,43 MINS,Rs. 400 FOR TWO, ,Rs. 10 distance fee applicable
+Chef Shanghai,"Chinese, Fast Food, Snacks",3.9,38 MINS,Rs. 150 FOR TWO,20% off on all orders,Rs. 10 distance fee applicable
+The Belgian Waffle Co.,"Desserts, Beverages",4.3,34 MINS,Rs. 200 FOR TWO, , 
+Best Belgian waffle,"Desserts, Beverages",4.1,35 MINS,Rs. 300 FOR TWO, , 
+Hotel Al Zaika,"Mughlai, North Indian, Chinese",3.9,53 MINS,Rs. 300 FOR TWO,60% off on all orders,Rs. 30 distance fee applicable
+Firangi Bake,"Italian, Mexican, Pastas",4.0,43 MINS,Rs. 400 FOR TWO,Swiggy Value Offer,Rs. 10 distance fee applicable
+WarmOven Cake & Desserts,"Bakery, Desserts, Ice Cream",4.3,50 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+Nandu's Paratha,North Indian,4.0,45 MINS,Rs. 200 FOR TWO, ,Rs. 10 distance fee applicable
+Momos Bowl Company,"Fast Food, Chinese",3.9,45 MINS,Rs. 200 FOR TWO,50% off on all orders,Rs. 10 distance fee applicable
+The Good Bowl,"North Indian, Biryani, Asian, Pastas, Desserts",4.4,42 MINS,Rs. 300 FOR TWO,20% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+The Biryani Life,"Biryani, Mughlai, Indian",3.9,43 MINS,Rs. 250 FOR TWO,20% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Kolkata Darbar,"Biryani, Bengali",3.9,48 MINS,Rs. 400 FOR TWO,10% off on orders above Rs. 200,Rs. 30 distance fee applicable
+MH 12 Pav Bhaji,"Snacks, Pizzas",4.2,46 MINS,Rs. 250 FOR TWO,15% off on all orders,Rs. 10 distance fee applicable
+Slice of Soul (S.O.S.),"Italian, Pizzas, Salads",3.9,39 MINS,Rs. 600 FOR TWO,30% off | Use coupon SWIGGYIT, 
+Chopsticks Spice Malabar,North Indian,4.2,42 MINS,Rs. 500 FOR TWO, ,Rs. 10 distance fee applicable
+Pizza Hut,"Pizzas, Fast Food",3.8,40 MINS,Rs. 350 FOR TWO, , 
+The Paratha Place,"North Indian, Beverages",4.1,39 MINS,Rs. 250 FOR TWO,20% off on all orders,Rs. 10 distance fee applicable
+Mayur Veg Thali (Camp),"North Indian, Rajasthani",4.2,44 MINS,Rs. 600 FOR TWO, ,Rs. 10 distance fee applicable
+Smokin' Joe's,"American, Fast Food",4.1,56 MINS,Rs. 400 FOR TWO, ,Rs. 30 distance fee applicable
+The Green Chef,"Healthy Food, Indian, Italian",4.2,47 MINS,Rs. 300 FOR TWO, ,Rs. 30 distance fee applicable
+Hyderabadi Laziz,"North Indian, Biryani",3.7,47 MINS,Rs. 400 FOR TWO, ,Rs. 30 distance fee applicable
+Shahji's Parantha House,North Indian,4.4,53 MINS,Rs. 500 FOR TWO, ,Rs. 30 distance fee applicable
+Hotel Malabar,"North Indian, Chinese",3.8,53 MINS,Rs. 400 FOR TWO,60% off on all orders,Rs. 30 distance fee applicable
+SLAY Coffee,"Beverages, Cafe, Desserts",4.2,45 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+Daiwong,"Chinese, Seafood",3.8,43 MINS,Rs. 400 FOR TWO,20% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Onesta,"Italian, Desserts, Pizzas",3.6,38 MINS,Rs. 200 FOR TWO, , 
+The Burger Project,"American, Fast Food, Beverages, Desserts",3.6,45 MINS,Rs. 200 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Punjabi Chef,North Indian,4.3,33 MINS,Rs. 300 FOR TWO,20% off on all orders, 
+Sweet Truth,"Bakery, Desserts, Ice Cream",4.1,43 MINS,Rs. 200 FOR TWO, ,Rs. 10 distance fee applicable
+Biryani Adda,"Biryani, Hyderabadi, Kebabs, Tandoor",3.8,47 MINS,Rs. 300 FOR TWO,10% off on orders above Rs. 99,Rs. 30 distance fee applicable
+Won China,Chinese,4.3,32 MINS,Rs. 300 FOR TWO,30% off | Use coupon SWIGGYIT, 
+Cafe food & fit,"Healthy Food, Fast Food",4.1,49 MINS,Rs. 300 FOR TWO, ,Rs. 30 distance fee applicable
+Cafe Durga (Viman Nagar),"South Indian, Fast Food",3.9,46 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+Kerala cafe,South Indian,3.8,42 MINS,Rs. 1000 FOR TWO, , 
+Mandarin Oak,"Asian, Chinese, Thai",4.1,43 MINS,Rs. 350 FOR TWO, ,Rs. 10 distance fee applicable
+Mayur Veg Thali (Magarpatta),"North Indian, Rajasthani",3.9,47 MINS,Rs. 600 FOR TWO, ,Rs. 30 distance fee applicable
+Piazza,"Pizzas, Salads, Combo, Italian, Mexican, Desserts, Beverages",3.5,51 MINS,Rs. 350 FOR TWO, ,Rs. 30 distance fee applicable
+Arthur's Theme,"Italian, European",3.8,31 MINS,Rs. 800 FOR TWO, , 
+Bowl Eat up,"North Indian, Oriental",4.3,55 MINS,Rs. 300 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 30 distance fee applicable
+Baba Biryani,"Biryani, Indian, Chinese",3.7,41 MINS,Rs. 250 FOR TWO, ,Rs. 10 distance fee applicable
+Noodle Canteen,"Chinese, Asian, Thai, Vietnamese",4.1,39 MINS,Rs. 500 FOR TWO,30% off | Use coupon SWIGGYIT, 
+Cafe Milano,"Italian, Fast Food",4.3,41 MINS,Rs. 200 FOR TWO,20% off on all orders,Rs. 10 distance fee applicable
+KaatiZone Rolls & Wraps,"Fast Food, Beverages, Bengali, Biryani, Indian, North Indian, Snacks, Street Foo...",4.5,47 MINS,Rs. 150 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 30 distance fee applicable
+Boon Bay,"Indian, Fast Food, Street Food, Beverages, North Indian, Desserts, Snacks",4.6,51 MINS,Rs. 150 FOR TWO,20% off on orders above Rs. 150,Rs. 30 distance fee applicable
+Charminar Hyderabadi Biryani House,Biryani,3.7,47 MINS,Rs. 200 FOR TWO,10% off on orders above Rs. 99,Rs. 30 distance fee applicable
+McCafe by McDonald's,"Cafe, Beverages, Desserts",--,38 MINS,Rs. 250 FOR TWO, , 
+Hyderabad Biryaani House,"North Indian, Chinese, Biryani",3.6,47 MINS,Rs. 500 FOR TWO,10% off on orders above Rs. 99,Rs. 30 distance fee applicable
+Gourmet Men,"Continental, Italian, Fast Food, Desserts, Beverages",3.7,43 MINS,Rs. 500 FOR TWO,15% off on all orders,Rs. 30 distance fee applicable
+The Chinese Culture,"Chinese, Malaysian",3.9,45 MINS,Rs. 150 FOR TWO,50% off on all orders,Rs. 10 distance fee applicable
+Burger It Up,"American, Beverages, Continental, Desserts, Snacks, Fast Food",4.1,47 MINS,Rs. 275 FOR TWO,20% off | Use coupon SWIGGYIT,Rs. 30 distance fee applicable
+Bowl Eat Up,"North Indian, Oriental",3.9,49 MINS,Rs. 300 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 30 distance fee applicable
+Malaka Spice,"Malaysian, Thai, Korean, Japanese, Asian, Vietnamese, Salads",4.1,32 MINS,Rs. 800 FOR TWO,30% off | Use coupon SWIGGYIT, 
+Punjabi Dhaba,Thalis,3.9,52 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+City Burger And More,"Fast Food, Beverages",4.1,52 MINS,Rs. 200 FOR TWO,20% off on orders above Rs. 99,Rs. 30 distance fee applicable
+FC Road Social,"Indian, Chinese, South Indian, American, Fast Food, Kebabs, Mughlai, Biryani, Co...",4.0,53 MINS,Rs. 500 FOR TWO,15% off on all orders,Rs. 30 distance fee applicable
+Coffee And Me,Cafe,4.0,42 MINS,Rs. 350 FOR TWO, ,Rs. 10 distance fee applicable
+Pizza Pixels,"Italian, Pizzas",3.6,50 MINS,Rs. 300 FOR TWO, ,Rs. 30 distance fee applicable
+Foodginie Express,"Fast Food, North Indian",4.0,48 MINS,Rs. 150 FOR TWO, ,Rs. 30 distance fee applicable
+Salad Men,"Healthy Food, Beverages",4.1,45 MINS,Rs. 500 FOR TWO, ,Rs. 30 distance fee applicable
+Badshah,"Fast Food, North Indian, South Indian, Chinese, Desserts",4.1,44 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+Hungry Hippos,"Chinese, North Indian",3.5,45 MINS,Rs. 200 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Burger 69 & More,"Cafe, American, Fast Food",3.5,34 MINS,Rs. 300 FOR TWO, , 
+The Asian Box,"Indonesian, Malaysian, Chinese, Asian, Thai, Burmese",3.8,34 MINS,Rs. 800 FOR TWO, , 
+Boteco,"South American, Fast Food",3.9,35 MINS,Rs. 800 FOR TWO, , 
+La Pino'z Pizza,Pizzas,3.5,43 MINS,Rs. 550 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+The Momo Box,"Bhutanese, Fast Food, Nepalese, Chinese",4.0,45 MINS,Rs. 150 FOR TWO,30% off on all orders,Rs. 10 distance fee applicable
+Chafa Cafe and Studio,Cafe,4.2,34 MINS,Rs. 800 FOR TWO, , 
+the wok box,"Chinese, Fast Food",3.7,48 MINS,Rs. 300 FOR TWO,30% off on all orders,Rs. 30 distance fee applicable
+Biryani By Kilo,"Biryani, Mughlai, Kebabs, North Indian, Hyderabadi, Lucknowi, Andhra, South Indi...",3.7,49 MINS,Rs. 700 FOR TWO, ,Rs. 30 distance fee applicable
+Mad Pav Bhaji,Street Food,3.8,46 MINS,Rs. 400 FOR TWO, ,Rs. 30 distance fee applicable
+Dragon Fire,Chinese,3.6,44 MINS,Rs. 250 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Shakes and Bites,"Continental, American, Desserts, Fast Food, Italian, Ice Cream, Beverages",3.6,43 MINS,Rs. 300 FOR TWO,30% off on orders above Rs. 199,Rs. 10 distance fee applicable
+SagarG,"Chinese, Fast Food, Continental, Beverages, Pastas",3.9,53 MINS,Rs. 400 FOR TWO,20% off on all orders,Rs. 30 distance fee applicable
+Swiss Bakes,"Desserts, Fast Food, Bakery",3.9,49 MINS,Rs. 250 FOR TWO,50% off on all orders,Rs. 30 distance fee applicable
+Maggie In A Bowl,"Bhutanese, Fast Food, Nepalese, Tibetan",3.8,43 MINS,Rs. 150 FOR TWO,40% off on all orders,Rs. 10 distance fee applicable
+Mad House Grill,"Continental, Salads",3.8,30 MINS,Rs. 1000 FOR TWO, , 
+Immunity Booster Meals By Lunchbox,"Fast Food, North Indian, Biryani, Desserts",--,44 MINS,Rs. 200 FOR TWO,20% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Hindustani Tadka,Indian,--,45 MINS,Rs. 200 FOR TWO, ,Rs. 10 distance fee applicable
+The Chinese Chef Co,"Chinese, Fast Food, Malaysian",3.9,45 MINS,Rs. 150 FOR TWO,40% off on all orders,Rs. 10 distance fee applicable
+Veg Momo Factory,"Bhutanese, Fast Food, Chinese, Nepalese",3.9,45 MINS,Rs. 150 FOR TWO,30% off on all orders,Rs. 10 distance fee applicable
+Pune12,"Chinese, Fast Food, Snacks",--,37 MINS,Rs. 400 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Masala Punjab Da,"North Indian, Chinese",3.3,43 MINS,Rs. 300 FOR TWO,25% off on all orders,Rs. 10 distance fee applicable
+Jagirdar Biryani,Indian,--,47 MINS,Rs. 400 FOR TWO, ,Rs. 30 distance fee applicable
+Zippy Feed,"Biryani, Combo, North Indian",--,46 MINS,Rs. 250 FOR TWO, ,Rs. 30 distance fee applicable
+Chinese Chaska,Chinese,--,46 MINS,Rs. 300 FOR TWO, ,Rs. 30 distance fee applicable
+The Uncles Kitchen,"Chinese, Thalis",--,36 MINS,Rs. 300 FOR TWO, , 
+Delicious,"Beverages, Chinese, Fast Food, Continental, Pastas",--,53 MINS,Rs. 300 FOR TWO,20% off on all orders,Rs. 30 distance fee applicable
+AK Biryani House,"Biryani, Fast Food, North Indian",3.5,50 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+Labbaik Biryani House,"Biryani, Fast Food, North Indian",--,50 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+Rasna Buzz,"Fast Food, Desserts, Beverages",--,54 MINS,Rs. 300 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 30 distance fee applicable
+Yogisthan,"Beverages, Fast Food",--,41 MINS,Rs. 300 FOR TWO,30% off on all orders,Rs. 10 distance fee applicable
+The Cafe by Hyatt Regency Pune,"Indian, Italian, Asian, Mediterranean",--,38 MINS,Rs. 1500 FOR TWO, ,Rs. 10 distance fee applicable
+Burger 69 and more,"American, Fast Food",--,39 MINS,Rs. 250 FOR TWO, ,Rs. 10 distance fee applicable
+Food Eat's,"Chinese, Fast Food, Continental, Italian",--,53 MINS,Rs. 400 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 30 distance fee applicable
+Paaji's Paratha House,"North Indian, Chinese",3.5,44 MINS,Rs. 200 FOR TWO,20% off on orders above Rs. 100,Rs. 10 distance fee applicable
+AK Cafe,"Biryani, Fast Food",--,48 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+Cafe Foodie,Fast Food,--,50 MINS,Rs. 400 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 30 distance fee applicable
+Cafe 52,Fast Food,3.6,44 MINS,Rs. 200 FOR TWO,25% off on orders above Rs. 100,Rs. 10 distance fee applicable
+Chinese Adda,"Chinese, Fast Food, Snacks",--,40 MINS,Rs. 400 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Soul Handi,"North Indian, Chinese",--,46 MINS,Rs. 500 FOR TWO,20% off on all orders,Rs. 30 distance fee applicable
+Food Eat's,"Chinese, Fast Food, Continental, Italian",--,53 MINS,Rs. 400 FOR TWO, ,Rs. 30 distance fee applicable
+Paaji's Paratha House,"North Indian, Chinese",3.5,44 MINS,Rs. 200 FOR TWO,20% off on orders above Rs. 100,Rs. 10 distance fee applicable
+AK Cafe,"Biryani, Fast Food",--,48 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+Cafe Foodie,Fast Food,--,50 MINS,Rs. 400 FOR TWO, ,Rs. 30 distance fee applicable
+Cafe 52,Fast Food,3.6,44 MINS,Rs. 200 FOR TWO,25% off on orders above Rs. 100,Rs. 10 distance fee applicable
+Chinese Adda,"Chinese, Fast Food, Snacks",--,40 MINS,Rs. 400 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Soul Handi,"North Indian, Chinese",--,46 MINS,Rs. 500 FOR TWO,20% off on all orders,Rs. 30 distance fee applicable
+The Chilika Restaurant,"North Indian, Chinese, Bengali",3.6,41 MINS,Rs. 500 FOR TWO,30% off | Use coupon SWIGGYIT, 
+Chaska Maska ,"Fast Food, North Indian, Chinese, Ice Cream",3.3,39 MINS,Rs. 350 FOR TWO,Free delight on orders above Rs. 300,Rs. 10 distance fee applicable
+Singh Dhaba,North Indian,3.2,46 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+Shahji's Parantha House,"North Indian, Punjabi, Indian",4.1,44 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+AK Caterers & Biryani House,"Fast Food, Biryani, North Indian",3.4,50 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+Masala Chaiwala,"Continental, Fast Food, Beverages",4.1,42 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+Singh Ching,"Chinese, Kebabs, North Indian",--,46 MINS,Rs. 350 FOR TWO,20% off on orders above Rs. 129,Rs. 30 distance fee applicable
+Biryani Wala,Fast Food,3.0,47 MINS,Rs. 300 FOR TWO,30% off on orders above Rs. 129,Rs. 30 distance fee applicable
+Al Madina Biryani House,"Biryani, Fast Food, North Indian",3.4,50 MINS,Rs. 200 FOR TWO, ,Rs. 30 distance fee applicable
+800 momos,Chinese,--,50 MINS,Rs. 250 FOR TWO, ,Rs. 30 distance fee applicable
+Rolling Rolls,Indian,--,50 MINS,Rs. 250 FOR TWO, ,Rs. 30 distance fee applicable
+Flavours Of China,Chinese,--,47 MINS,Rs. 300 FOR TWO,15% off on all orders,Rs. 30 distance fee applicable
+Masala World,"Biryani, Chinese, Indian",--,42 MINS,Rs. 200 FOR TWO, ,Rs. 10 distance fee applicable
+Masala Kitchen,"North Indian, Chinese",--,42 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+Chacha's kitchen & catering,"Biryani, North Indian, Combo, Chinese",3.3,47 MINS,Rs. 350 FOR TWO,20% off on all orders,Rs. 30 distance fee applicable
+Andhra Biryani,"Biryani, Chinese, North Indian",3.6,41 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+Hot Pan Pizza,Indian,--,50 MINS,Rs. 400 FOR TWO, ,Rs. 30 distance fee applicable
+Bhiwandi Darbar,North Indian,3.6,46 MINS,Rs. 400 FOR TWO, ,Rs. 10 distance fee applicable
+Dhhyaas's Hyderabad Biryani Paradise,"Biryani, North Indian",--,47 MINS,Rs. 300 FOR TWO,10% off on orders above Rs. 99,Rs. 30 distance fee applicable
+The Coffee Cafe,"Beverages, Fast Food",3.3,48 MINS,Rs. 250 FOR TWO,30% off | Use coupon JUMBO,Rs. 30 distance fee applicable
+18 Hrs,"Pizzas, Fast Food, Chinese, Snacks, Beverages",--,39 MINS,Rs. 400 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Kiraaak,"Chinese, North Indian",--,42 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+The Happy Place Cafe,Cafe,--,39 MINS,Rs. 100 FOR TWO, , 
+Moshi Moshi,Asian,--,34 MINS,Rs. 1600 FOR TWO, , 
+Foodies Tiffin & Catering Services,Indian,--,52 MINS,Rs. 300 FOR TWO, ,Rs. 30 distance fee applicable
+Rolling Rolls,Indian,--,50 MINS,Rs. 250 FOR TWO, ,Rs. 30 distance fee applicable
+All Day Breakfast,"Chinese, North Indian",4.3,42 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+Flavours Of China,Chinese,--,47 MINS,Rs. 300 FOR TWO,15% off on all orders,Rs. 30 distance fee applicable
+Masala World,"Biryani, Chinese, Indian",--,42 MINS,Rs. 200 FOR TWO, ,Rs. 10 distance fee applicable
+Idli Sambar,South Indian,--,34 MINS,Rs. 200 FOR TWO, , 
+Shreenath Sandwich,Fast Food,--,38 MINS,Rs. 150 FOR TWO, , 
+Masala Kitchen,"North Indian, Chinese",--,42 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+Chacha's kitchen & catering,"Biryani, North Indian, Combo, Chinese",3.3,47 MINS,Rs. 350 FOR TWO,20% off on all orders,Rs. 30 distance fee applicable
+Andhra Biryani,"Biryani, Chinese, North Indian",3.6,41 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+Hot Pan Pizza,Indian,--,50 MINS,Rs. 400 FOR TWO, ,Rs. 30 distance fee applicable
+JALWA DINING,Indian,--,43 MINS,Rs. 450 FOR TWO, , 
+Bhiwandi Darbar,North Indian,3.6,46 MINS,Rs. 400 FOR TWO, ,Rs. 10 distance fee applicable
+Dhhyaas's Hyderabad Biryani Paradise,"Biryani, North Indian",--,47 MINS,Rs. 300 FOR TWO,10% off on orders above Rs. 99,Rs. 30 distance fee applicable
+The Coffee Cafe,"Beverages, Fast Food",3.3,48 MINS,Rs. 250 FOR TWO,30% off | Use coupon JUMBO,Rs. 30 distance fee applicable
+18 Hrs,"Pizzas, Fast Food, Chinese, Snacks, Beverages",--,39 MINS,Rs. 400 FOR TWO,30% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Khaolite-X,"Juices, Salads, Healthy Food",4.4,42 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+Honey Singh Parathewala,"North Indian, Punjabi",3.7,42 MINS,Rs. 700 FOR TWO, ,Rs. 10 distance fee applicable
+Cream Stone,"Ice Cream, Desserts",4.3,39 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+Kiraaak,"Chinese, North Indian",--,42 MINS,Rs. 300 FOR TWO, ,Rs. 10 distance fee applicable
+The Happy Place Cafe,Cafe,--,36 MINS,Rs. 100 FOR TWO, , 
+Moshi Moshi,Asian,--,32 MINS,Rs. 1600 FOR TWO, , 
+Foodies Tiffin & Catering Services,Indian,--,51 MINS,Rs. 300 FOR TWO, ,Rs. 30 distance fee applicable
+Noods,"Cafe, Chinese, Fast Food",--,39 MINS,Rs. 200 FOR TWO,30% off | Use coupon SWIGGYIT, 
+Punjabi Chilly,"North Indian, Chinese",--,43 MINS,Rs. 400 FOR TWO,20% off | Use coupon SWIGGYIT,Rs. 10 distance fee applicable
+Hotel Shivani,Chinese,--,46 MINS,Rs. 200 FOR TWO, ,Rs. 10 distance fee applicable
+Frozen Shakes,Beverages,--,32 MINS,Rs. 280 FOR TWO, , 
+16 Icy Rolls,Ice Cream,--,32 MINS,Rs. 300 FOR TWO, , 
+Khichdi Baba,"Home Food, Healthy Food, Indian, North Indian",--,38 MINS,Rs. 300 FOR TWO, , 
+China Knight,"Beverages, Chinese, Fast Food, Continental, Pastas",--,53 MINS,Rs. 300 FOR TWO,20% off on all orders,Rs. 30 distance fee applicable
+
